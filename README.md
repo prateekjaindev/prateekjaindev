@@ -6,9 +6,5 @@
 ## I'm a DevSecOps Engineer!!
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
 
  ![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=prateekjaindev&show_icons=true&theme=radical)
-
-</details>
