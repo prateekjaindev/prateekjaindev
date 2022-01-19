@@ -9,6 +9,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Prateek's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=prateekjaindev&show_icons=true&hide_border=true" />
+  <img align="left" alt="Prateek's GitHub Stats" src="https://github-readme-stats.prateekjaindev.vercel.app/api?username=prateekjaindev&show_icons=true&hide_border=true" />
 
 </details>
