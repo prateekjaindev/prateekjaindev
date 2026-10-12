@@ -1,0 +1,21 @@
+name: Update latest blog posts
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@1.9.7
+        with:
+          feed_list: "https://medium.com/feed/@prateekjain.dev"
+          max_post_count: 5
+          remove_duplicates: true
+          commit_message: "chore: update latest blog posts"

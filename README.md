@@ -1,37 +1,64 @@
-<p align="center">
-  <img src="assets/terminal.svg" alt="Terminal-style profile card for Prateek Jain" width="100%" />
+# Hi, I'm Prateek Jain
+
+**DevSecOps Architect at Tech Alchemy · CNCF Kubestronaut · Pune, India**
+
+I design secure delivery pipelines, Kubernetes platforms, and cloud infrastructure that help teams ship faster without making production fragile. My day-to-day sits across CI/CD, infrastructure as code, observability, supply-chain security, and increasingly, AI-assisted engineering workflows. I write about what I build and break at [blog.prateekjain.dev](https://blog.prateekjain.dev).
+
+[![Website](https://img.shields.io/badge/prateekjain.dev-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://prateekjain.dev)
+[![Blog](https://img.shields.io/badge/Blog-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://blog.prateekjain.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prateekjaindev)
+[![X](https://img.shields.io/badge/@PrateekJainDev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/PrateekJainDev)
+[![Topmate](https://img.shields.io/badge/Book_a_call-E44332?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://topmate.io/prateekjaindev)
+
+## Certifications
+
+<p>
+  <img src="assets/certs/cka.png" height="80" alt="Certified Kubernetes Administrator (CKA)" title="Certified Kubernetes Administrator (CKA)" />
+  <img src="assets/certs/ckad.png" height="80" alt="Certified Kubernetes Application Developer (CKAD)" title="Certified Kubernetes Application Developer (CKAD)" />
+  <img src="assets/certs/cks.png" height="80" alt="Certified Kubernetes Security Specialist (CKS)" title="Certified Kubernetes Security Specialist (CKS)" />
+  <img src="assets/certs/kcna.png" height="80" alt="Kubernetes and Cloud Native Associate (KCNA)" title="Kubernetes and Cloud Native Associate (KCNA)" />
+  <img src="assets/certs/kcsa.png" height="80" alt="Kubernetes and Cloud Native Security Associate (KCSA)" title="Kubernetes and Cloud Native Security Associate (KCSA)" />
+  <img src="assets/certs/aws-developer-associate.png" height="80" alt="AWS Certified Developer – Associate" title="AWS Certified Developer – Associate" />
 </p>
 
-<p align="center">
-  <a href="https://blog.prateekjain.dev">Blog</a> .
-  <a href="https://twitter.com/PrateekJainDev">X / Twitter</a> .
-  <a href="https://github.com/prateekjaindev?tab=repositories">Repositories</a>
-</p>
+CNCF **Kubestronaut**: all five Kubernetes certifications (CKA, CKAD, CKS, KCNA, KCSA), plus AWS Certified Developer – Associate.
 
-## DevSecOps, Cloud, and Platform Engineering
+## Featured projects
 
-I build secure delivery systems, cloud-native infrastructure, and developer platforms that make teams faster without making production fragile. My work lives around Kubernetes, CI/CD, observability, infrastructure as code, and practical security automation.
+| Project | What it is |
+| --- | --- |
+| [**homelab**](https://github.com/prateekjaindev/homelab) | Three-node HA Kubernetes cluster on Talos Linux with Cilium, Gateway API, cert-manager, Cloudflare Tunnel and Tailscale. Companion repo for my homelab blog series. |
+| [**traefik-demo**](https://github.com/prateekjaindev/traefik-demo) | Traefik as an edge router for multiple frontends and backends, with automatic TLS and Prometheus metrics, all in Docker Compose. |
+| [**docker-shrink**](https://github.com/prateekjaindev/docker-shrink) | Shrinking a Node.js image step by step, from a naive Dockerfile through Alpine, multi-stage builds and distroless to a static binary. |
+| [**dependency-track-demo**](https://github.com/prateekjaindev/dependency-track-demo) | A deliberately vulnerable Express API for demonstrating SBOM generation and supply-chain scanning with OWASP Dependency-Track. |
+| [**omarchy-k8s-desktop-widget**](https://github.com/prateekjaindev/omarchy-k8s-desktop-widget) | Read-only Kubernetes health dashboard that runs as a desktop widget on Omarchy (Hyprland), covering API latency, node pressure and workload readiness. |
+| [**ecom-log-generator**](https://github.com/prateekjaindev/ecom-log-generator) | Lightweight container that emits realistic JSON e-commerce logs for testing log pipelines (CloudWatch, ELK, Loki, Datadog). |
 
-## What I Work With
+## Latest writing
+
+<!-- BLOG-POST-LIST:START -->
+- [Tailscale on Talos Linux: Secure Remote Access to a Kubernetes Homelab](https://medium.com/@prateekjain.dev/tailscale-on-talos-linux-secure-remote-access-to-a-kubernetes-homelab-8a082d903682)
+- [Networking a 3-Node Kubernetes Homelab with Cilium, Gateway API and Cloudflare Tunnel](https://medium.com/@prateekjain.dev/networking-a-kubernetes-homelab-cilium-gateway-api-and-cloudflare-tunnel-on-talos-362f548a2f3d)
+- [Building a 3-Node Highly Available Kubernetes Homelab with Talos Linux](https://medium.com/@prateekjain.dev/building-a-3-node-highly-available-kubernetes-homelab-with-talos-linux-0372066fe49c)
+- [My 3-Month Journey to Becoming a Kubestronaut](https://medium.com/@prateekjain.dev/my-3-month-journey-to-becoming-a-kubestronaut-c722c4a7cf75)
+- [CKS Exam Experience 2026: Preparation, Strategy, and Lessons Learned](https://medium.com/@prateekjain.dev/cks-exam-experience-2026-preparation-strategy-and-lessons-learned-1fad785a430b)
+<!-- BLOG-POST-LIST:END -->
+
+➜ [More on the blog](https://blog.prateekjain.dev)
+
+## Tooling
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Talos](https://img.shields.io/badge/Talos_Linux-FF7300?style=flat-square&logo=talos&logoColor=white)
+![Cilium](https://img.shields.io/badge/Cilium-F8C517?style=flat-square&logo=cilium&logoColor=black)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-## Featured Work
-
-- [traefik-demo](https://github.com/prateekjaindev/traefik-demo) - reverse proxy and edge routing experiments
-- [cloudflare-container-demo](https://github.com/prateekjaindev/cloudflare-container-demo) - Cloudflare container runtime exploration
-- [docker-shrink](https://github.com/prateekjaindev/docker-shrink) - tooling and experiments around leaner containers
-- [portfolio](https://github.com/prateekjaindev/portfolio) - personal site and project showcase
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prateekjaindev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Prateek Jain's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekjaindev&layout=compact&theme=github_dark&hide_border=true" alt="Prateek Jain's most used languages" />
-</p>
