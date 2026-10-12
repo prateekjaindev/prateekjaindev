@@ -1,6 +1,6 @@
 # Hi, I'm Prateek Jain
 
-**DevSecOps Architect at Tech Alchemy · CNCF Kubestronaut · Pune, India**
+**DevSecOps Architect at Tech Alchemy & Hashirai · CNCF Kubestronaut · Pune, India**
 
 I design secure delivery pipelines, Kubernetes platforms, and cloud infrastructure that help teams ship faster without making production fragile. My day-to-day sits across CI/CD, infrastructure as code, observability, supply-chain security, and increasingly, AI-assisted engineering workflows. I write about what I build and break at [blog.prateekjain.dev](https://blog.prateekjain.dev).
 
