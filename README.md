@@ -37,11 +37,11 @@ CNCF **Kubestronaut**: all five Kubernetes certifications (CKA, CKAD, CKS, KCNA,
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Persistent Storage for a 3-Node Talos Homelab with Longhorn](https://medium.com/@prateekjain.dev/persistent-storage-for-a-3-node-talos-homelab-with-longhorn-587c05356b73?source=rss-3536a83d56f9------2)
 - [Importing an Existing Talos Cluster into Omni](https://medium.com/@prateekjain.dev/importing-an-existing-talos-cluster-into-omni-bb1fc7722eda?source=rss-3536a83d56f9------2)
 - [Tailscale on Talos Linux: Secure Remote Access to a Kubernetes Homelab](https://medium.com/@prateekjain.dev/tailscale-on-talos-linux-secure-remote-access-to-a-kubernetes-homelab-8a082d903682?source=rss-3536a83d56f9------2)
 - [Networking a 3-Node Kubernetes Homelab with Cilium, Gateway API and Cloudflare Tunnel](https://medium.com/@prateekjain.dev/networking-a-kubernetes-homelab-cilium-gateway-api-and-cloudflare-tunnel-on-talos-362f548a2f3d?source=rss-3536a83d56f9------2)
 - [Building a 3-Node Highly Available Kubernetes Homelab with Talos Linux](https://medium.com/@prateekjain.dev/building-a-3-node-highly-available-kubernetes-homelab-with-talos-linux-0372066fe49c?source=rss-3536a83d56f9------2)
-- [My 3-Month Journey to Becoming a Kubestronaut](https://medium.com/@prateekjain.dev/my-3-month-journey-to-becoming-a-kubestronaut-c722c4a7cf75?source=rss-3536a83d56f9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➜ [More on the blog](https://blog.prateekjain.dev)
