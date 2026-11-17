@@ -37,11 +37,11 @@ CNCF **Kubestronaut**: all five Kubernetes certifications (CKA, CKAD, CKS, KCNA,
 ## Latest writing
 
 <!-- BLOG-POST-LIST:START -->
+- [GitOps for a 3-Node Talos Kubernetes Homelab with Argo CD](https://medium.com/@prateekjain.dev/gitops-for-a-3-node-talos-kubernetes-homelab-with-argo-cd-336c076e93cc?source=rss-3536a83d56f9------2)
 - [Metrics, Logs and Alerts for a 3-Node Talos Homelab with VictoriaMetrics](https://medium.com/@prateekjain.dev/metrics-logs-and-alerts-for-a-3-node-talos-homelab-with-victoriametrics-0f4a91b9d44e?source=rss-3536a83d56f9------2)
 - [Persistent Storage for a 3-Node Talos Homelab with Longhorn](https://medium.com/@prateekjain.dev/persistent-storage-for-a-3-node-talos-homelab-with-longhorn-587c05356b73?source=rss-3536a83d56f9------2)
 - [Importing an Existing Talos Cluster into Omni](https://medium.com/@prateekjain.dev/importing-an-existing-talos-cluster-into-omni-bb1fc7722eda?source=rss-3536a83d56f9------2)
 - [Tailscale on Talos Linux: Secure Remote Access to a Kubernetes Homelab](https://medium.com/@prateekjain.dev/tailscale-on-talos-linux-secure-remote-access-to-a-kubernetes-homelab-8a082d903682?source=rss-3536a83d56f9------2)
-- [Networking a 3-Node Kubernetes Homelab with Cilium, Gateway API and Cloudflare Tunnel](https://medium.com/@prateekjain.dev/networking-a-kubernetes-homelab-cilium-gateway-api-and-cloudflare-tunnel-on-talos-362f548a2f3d?source=rss-3536a83d56f9------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➜ [More on the blog](https://blog.prateekjain.dev)
